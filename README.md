@@ -1,4 +1,4 @@
-# Application Monitoring Dashboard
+# LogIQ : A new and innovative solution for server monitoring
 
 This project implements a comprehensive monitoring solution for a REST API using:
 - FastAPI for the REST API server
